@@ -39,11 +39,10 @@ function myFunction() {
 
 
 
-
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TX9ZBTMB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
     </body>
-</html><img width="998" height="1263" alt="image" src="https://github.com/user-attachments/assets/bd3778a5-0213-4526-8787-275c17bc4d14" />
+</html>
